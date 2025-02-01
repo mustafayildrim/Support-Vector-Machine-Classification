@@ -31,9 +31,9 @@ pip install numpy scikit-learn datasets
 
 ### **Step 1: Load and Preprocess Data**
 
-- Load the dataset using `datasets.load_dataset()`.
+- Load the dataset.
 - Extract samples of digits **'7' and '9'**.
-- Normalize the data if necessary.
+- Normalize the data.
 
 ### **Step 2: Train SVM Classifiers**
 
